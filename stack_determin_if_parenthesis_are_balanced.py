@@ -47,4 +47,4 @@ def is_paren_balanced(paren_string):
         return False
 
 
-print(is_paren_balanced("(({}"))
+print(is_paren_balanced("(({}))"))
